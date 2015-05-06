@@ -29,7 +29,7 @@ public class MyApp extends Application {
 	public static final int RADIUS = 500;
 	public static final int MAXWIDTH=400;
 	public static Location mCurrentLoc;
-	public static final String APPLICATION_KEY= "AIzaSyA_3sWYXT9QmnAHr_Se2uL4P_xWUOwlF_0";//"AIzaSyAPtCBYbNom7rg35QlP3VvOgqQx22hJTbE";//"AIzaSyC6cgXu2G4SDjlQGE063sYlIwCRqa1E0mc";//"";//;// old key 
+	public static final String APPLICATION_KEY= " google server api key "
 	public static HashMap<String , ArrayList<MyPhoto>> mPlacePhotoMap = new HashMap<String , ArrayList<MyPhoto>>();
 	public static ArrayList<MyPlace>mNearByPlaces= new ArrayList<MyPlace>();
 	public static HashMap<String , MyPlace> mPlaceIdnPlaceMap = new HashMap<String , MyPlace>();
