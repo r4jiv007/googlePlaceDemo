@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">iMENADemo</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="latitude_label">Latitude: </string>
+    <string name="longitude_label">Longitude: </string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="loading">Loading Location Data .... </string>
+    
+    <string name="fav">Mark Fav</string>
+    <string name="rfav">Remove Fav</string>
+    <string name="gotofav">Goto Fav</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="wallpaper">setAsWallpaper</string>
+    
+    <string name="favs">Favourites</string>
+    
+    <string name="ImageDetail">ImageDetail</string>
+    
+    <string name="ImageList">ImageList</string>
+    <string name="home">Home</string>
+    
+</resources>
