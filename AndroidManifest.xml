@@ -60,7 +60,7 @@
         <!-- Goolge API Key -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCR0Sf6tdSRK4jqtv-Snj4nPtQF6JdwcMw" />
+            android:value="google map key" />
 
         <provider
             android:name="rajiv.imena.demo.contentprovider.FavPlaceContentProvider"
