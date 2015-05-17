@@ -212,7 +212,7 @@ public class StartupActivity extends Activity implements ConnectionCallbacks,
 			startActivity(in);
 			StartupActivity.this.finish();
 			}else{
-				Toast.makeText(StartupActivity.this, "Failed to Download Information", Toast.LENGTH_LONG).show();
+				Toast.makeText(StartupActivity.this, "Failed to Download Location info", Toast.LENGTH_LONG).show();
 			}
 		}
 
